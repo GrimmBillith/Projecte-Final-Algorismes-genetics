@@ -1,5 +1,7 @@
 Projecte Final: Algorismes Genètics (C)
+
 Descripció
+
 Aquest projecte implementa un algorisme genètic en llenguatge C per trobar una contrasenya binària de 30 bits que compleixi una condició matemàtica concreta. El repte consisteix a trobar un vector de 30 bits tal que la suma de cada bit multiplicat pel quadrat de la seva posició sigui igual a 1977. El problema està inspirat en una situació de seguretat fictícia on cal obrir una caixa forta.
 
 L’algorisme genètic utilitza els mecanismes clàssics de selecció per torneig, encreuament d’un punt, mutació flip i relleu generacional per evolucionar la població de possibles solucions fins trobar la millor resposta.
